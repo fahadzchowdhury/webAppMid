@@ -1,4 +1,3 @@
-
 .dp{
     height: 15%;
     width: 15%;
@@ -9,3 +8,10 @@
     text-overflow: ellipsis;
 }
 
+/* .card-image{
+    height: 20%;
+    width: 20%;
+} */
+.card{
+    width: 35vw;
+}
